@@ -14,7 +14,7 @@ In addition to the notes here, I recommend you check out the [RxJS docs](https:/
 
 ## RxJS Posts
 
-I've also written two posts on the RxJS DEV.TO site:
+I've also written two posts on the [RxJS DEV.TO](https://dev.to/rxjs) site:
 
 - [From Promises to Observables](https://dev.to/rxjs/from-promises-to-observables-4bdk)
 - [Common Approaches to Handling Subscriptions](https://dev.to/rxjs/common-approaches-to-handling-subscriptions-1nk7)
